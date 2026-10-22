@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:wisata_candi_stevencl/models/candi.dart';
+import 'package:wisata_candi_vexonomous/models/candi.dart';
 
 class DetailScreen extends StatelessWidget {
   final Candi candi;
